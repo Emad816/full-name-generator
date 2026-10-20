@@ -50,7 +50,7 @@ public class FullNameApplication {
             fullName = fullName + " " + suffix;
         }
 
-        System.out.println(fullName);
+        System.out.println("Full name is : " + fullName);
 
     }
 }
